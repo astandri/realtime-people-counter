@@ -1,0 +1,11 @@
+{
+    "startX_area": 0.2,
+    "endX_area": 0.7,
+    "startY_area": 0.15,
+    "endY_area": 0.95,
+    "skip_frames": 3,
+    "min_confidence": 0.45,
+    "urls": [
+        "rtsp://localhost:8554/streaming/video1"
+    ]
+}
